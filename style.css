@@ -1,0 +1,242 @@
+.div1{
+    background-image: url(pexels-maria-geller-801267-2127039.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30rem;
+    width: 100%;
+}
+.h1{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10rem;
+    color: whitesmoke;
+}
+.left-section{
+    background-image: url(pexels-bleri-29580167.jpg);
+    width: 35%;
+    height: 30rem;
+    background-position: center;
+    background-size: cover;
+}
+.div2{
+    margin-top: 4rem;
+}
+.container-fluid{
+    height: 35rem;
+    width: 100%;
+    display: flex;
+    gap: 5rem;
+}
+.h11{
+    justify-content: center;
+    text-align: center;
+}
+.right-section{
+       height: 30rem;
+       width:35rem;
+       padding: 20px;
+}
+.pp .h11{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 30rem;
+}
+.DIV3{
+    margin-top: 4rem;
+}
+.maclaren{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    text-align: center;
+}
+.pen{
+    font-size: 50px;
+
+}
+.container{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    text-align: center;
+}
+.div5{
+    margin-top: 4rem;
+}
+.srt{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4rem;
+
+}
+.pic1{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-mati-6330644.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic2{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-cottonbro-8720588.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic3{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-stefan-coders-1019774-5243611.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.parent{
+    display: flex;
+    gap: 3rem;
+    margin-top: 4rem;
+    justify-content: center;
+    text-align: center;
+}
+.pic4{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-shkrabaanthony-5475752.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic5{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-shkrabaanthony-5475758.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.pic6{
+    height: 20rem;
+    width: 20rem;
+    background-image: url(pexels-pixabay-270637.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.parent2{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+}
+.Tesla{
+    margin-top: 4rem;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.head{
+    background-image: url(pexels-gabby-k-5876516.jpg);
+    height: 6rem;
+    width: 6rem;
+    background-position: center;
+    background-size: cover;
+    border-radius: 3rem;    
+} 
+.numbers{
+    height: 10rem;
+    width: 100%;
+    background-color: grey;
+    padding-top:4rem ;
+    display: flex;
+    gap: 5rem;
+    color: white;
+}
+.supra{
+    margin-top: 4rem;
+}
+.challenger{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    text-align: center;
+    padding-top: 4rem;
+}
+#email{
+    width: 20rem;
+}
+#pwd{
+    width: 20rem;
+}
+#comment{
+    width: 25rem;
+}
+.vid{
+    padding-top: 2rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+form{
+justify-content: center;        
+
+
+}
+#btn{
+    width: 5rem;
+}
+.footer{
+    height: 7rem;
+    width: auto;
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 2rem;
+}
+.pp1{
+
+    padding-top: 3rem;
+    
+}
+footer{
+    justify-content: center;
+}
+@media screen and (max-width:430px) and (min-width:212px){
+    .div1{
+    }
+    .dodge{
+        flex-direction: column;
+    }
+    .maclaren{
+        flex-direction: column  ;
+    }
+    #bb{
+        flex-direction: column;
+    }
+    .left-section{
+        width: 100%;
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+    .pp{
+        width: 70%;
+        text-align: justify;        
+    }
+    .parent, .parent2{
+        flex-direction: column;
+    }
+    .pic1, .pic2, .pic3, .pic4, .pic5 .pic6{
+        width: 100%;
+    }
+    .srt{
+        display: none;
+    }
+    .numbers{
+        display:  none;
+    }
+    .challenger{
+        flex-direction: column;
+    }
+}
