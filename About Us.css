@@ -1,0 +1,124 @@
+.div1{
+    height: 30rem;
+    width: 100%;
+    background-image:url(pexels-adrien-olichon-1257089-3534750.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    font-size: 72px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    padding-top: 12rem;
+    color: white
+}
+.h44{
+    text-align: center;
+    justify-content: center;
+    color: rgb(73, 71, 71);
+    font-size: large;
+    font-weight: 200;
+}
+p{
+    padding: 0px 9px 9px 9px ;
+
+}
+.div2{
+    margin-top: 4rem;
+}
+.div11{
+  height: 20rem;  
+  width: 20rem;
+  background-color: red;
+}
+.h444{
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 1rem;
+    font-size: medium;
+}
+.div111{
+    height: 20rem;  
+    width: 20rem;
+    background-color: black;
+}
+.container{
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4rem;
+}
+.h3{
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+}
+.div4{
+    height:50rem ;
+    width: auto;
+    background-color: #040404;
+    margin-top: 4rem;
+    color: white;
+}
+.div5{
+    height: 30rem;
+    width: 100%;
+    background-image: url(pexels-ella-olsson-572949-1640772.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 4rem;
+}
+.progress{
+    width: 90%;
+    height:0.5rem;
+}
+.h2{
+    text-align: center;
+    padding-top: 4rem;
+    color: #040404;
+}
+.p0{
+    /* padding-left: 4rem; */
+    padding-top: 1rem;
+}
+#loader{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+#main{
+    display: none;
+}
+.progress{
+    width: 20%;
+    height:0.5rem;
+ }
+ @media screen and (max-width: 430px) and (min-width:212px){
+    .div1{
+        width: 100%;
+    }
+    .h1{
+        color: red
+    }
+    .div4{
+        display: none;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .div55{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+ }
