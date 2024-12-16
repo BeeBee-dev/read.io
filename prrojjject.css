@@ -1,0 +1,351 @@
+.div1{
+    height: 50rem;
+    width: 100%;
+    background-image: url(pexels-fotios-photos-776538.html.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navitem{
+    float: right;
+}
+.map{
+    font-size: 200px;
+    font-weight: bold;
+    /* padding-left: 25rem; */
+    padding-top: 12rem;
+    color: #ffffff;
+}
+.p1{
+    /* padding-left: 25rem; */
+    padding-top: 3rem;
+    color: #ffffff;
+    letter-spacing:1rem ;
+}
+#btn{
+    margin-top: 20rem;
+    background-color: rgb(92, 19, 19);
+    color:white ;
+    padding: 10px 20px;
+    font-size:16px ;
+    border: none;
+    margin-left: 5rem;
+}
+.navbaritem{
+    float: right;
+}
+.divider{
+    width: 60px;
+    height: 2px;
+    background-color: #c00;
+    margin: 10px auto;
+}
+.section-title{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.service-box{
+    height: 17rem;
+    width: 20rem;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.service-box i{
+    font-size: 20px;
+    color: #b71c1c;
+    margin-bottom: 10px;
+}
+.parent{
+    display: flex;
+}
+.left-section{
+    flex: 1rem;
+    background-image: url(pexels-fotios-photos-1855214.html.jpg);
+    background-size: cover;
+    background-position:center ;
+    
+
+}
+.right-section{
+    background-color: #d9534f;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.container-fluid{
+    display: flex;
+    height: 37rem;
+    width: auto;
+}
+.btn-custom{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding:5px ;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.div4{
+    background-color: black ;
+    width: 100%;
+    height: 45REM;
+    margin-top: 4rem;
+    color: white;
+ 
+}
+.section1{
+    margin-top: 4rem;
+    text-align: center;
+    margin-bottom:20px ;
+}
+.pic1{
+    height: 25rem;
+    width:25rem ;
+    background-image: url(pexels-keesha-s-kitchen-22731136-13915043.jpg);
+    background-position: center;
+    background-size: cover;
+   
+}
+.pic2{
+    height: 25rem;
+    width:25rem ;
+    background-image: url(pexels-ella-olsson-572949-1640772.jpg);
+    background-position: center;
+    background-size: cover;
+   
+}
+.pic3{
+    height: 25rem;
+    width:25rem ;
+    background-image: url(pexels-saizstudio-17952748.jpg);
+    background-position: center;
+    background-size: cover;
+    
+} 
+.pic3:hover{
+    opacity: 0.5;transition: 1s;cursor: all-scroll;
+}
+.pic1:hover{
+    opacity: 0.5;transition: 1s;cursor: all-scroll;
+}
+.pic2:hover{
+    opacity: 0.5;transition: 1s;cursor: all-scroll;
+}.pic4:hover{
+    opacity: 0.5;transition: 1s;cursor: all-scroll;
+}
+
+
+.pic4{
+    height: 25rem;
+    width:25rem ;
+    background-image: url(pexels-reneterp-1581384.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.getter{
+    display: flex;
+gap: 1rem;}
+.section11{
+    margin-top: 4rem;
+    text-align: center;
+    margin-bottom:20px ;
+}
+.div7{
+    height: 7rem;
+    width: 100%;
+    background-color:black ;
+}
+.h4{
+    padding-top: 2rem;
+    color: white;
+    padding-left: 2rem;
+    font-weight: lighter;
+}
+#btn{
+    
+    /* float: right; */
+    border: 2px solid white;
+    color: white;
+    
+
+}
+#bbb{
+    float: right;
+    padding: 0.5rem 1rem;
+
+    /* background-color: transparent;
+    text-transform: uppercase;
+    text-decoration: none; */
+
+}
+.card{
+    height: 20rem;
+    width: 100%;
+    background-color: grey;
+}
+#cont{
+    display: flex;
+    gap: 1rem;
+    margin-top: 3rem;
+}
+.section111{
+    text-align: center;
+}
+.class{
+    text-align: center;
+    color: #b71c1c;
+    font-size: larger;
+}
+.img{
+    height: 30rem;
+    width: 100%;
+    background-image: url(pexels-pixabay-262047.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.numbers{
+    height: 15rem;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    gap: 10rem;
+    color: #000000;
+    font-size: larger;
+    position: center;
+    padding-left: 7rem;
+}
+.p{
+    font-size: medium;
+}
+.div9{
+    height: 40rem;
+    width: auto;
+    background-image: url(pexels-pixabay-372851.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1.5;
+}
+.call{
+    height: 15rem;
+    width: 15rem;
+    border: solid gray;
+    color:whitesmoke;
+    text-align: center;
+    background-color: grey;
+    padding-top: 3rem;
+}
+.lap{
+    display: flex;
+    gap:10rem;
+    padding-top:12rem;
+    /* margin-left: 12rem; */
+}
+#i{
+    color: #b71c1c;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+#did{
+    margin-top: 4rem;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: blue;
+    height: 5rem;
+    width: 100%;
+    }
+#loader{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+#main{
+    display: none;
+}
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  #main{
+    display: none;
+  }
+  #mainnn{
+    display: none;
+  }
+  .buts{
+    text-orientation: upright;
+    writing-mode: vertical-rl;
+    position: fixed;
+    z-index: 1;
+  }
+  .map {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+@media screen and (max-width: 430px) and (min-width:212px) {
+    .div1{
+        height: 40rem;
+        width: 100%;
+        background-image: url(pexels-fotios-photos-776538.html.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    .colonel{
+
+        flex-direction: column;
+    }
+    .lap{
+            flex-direction: column;
+        margin-top: 20rem;
+        gap: 1rem;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .numbers{
+        display: grid;
+        gap: 0%;
+    }
+    .left-section{
+        display: none;
+    }
+    
+    .div4{
+        display: none;
+    }
+    .getter{
+        flex-direction: column;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .pic1, .pic2, .pic3, .pic4{
+        width: 100%;
+    }
+    .call{
+            width: 100%;
+    }
+    footer{
+        width: 100%;
+        height: 5rem;
+        border-color: blue;
+        z-index: 1;
+    }
+}
+
+
